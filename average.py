@@ -2,6 +2,8 @@
 def calculate_average(numbers):
     if len(numbers) == 0:
         return 0
+    print(max(numbers))
+    print(min(numbers))
     return sum(numbers) / len(numbers)
 
 # Example usage
