@@ -1,2 +1,2 @@
 
-print("hello world")
+print("This is another string!")
